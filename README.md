@@ -1,3 +1,9 @@
+
+### 2015-12-21 update
+
+修改了创建数据表时,text与string类型的字段只能创建Varchar(MAX)与NVarchar(Max)的问题
+
+
 ## <a href="http://www.cnectdata.com/"><img src="http://www.cnectdata.com/wp-content/uploads/2014/04/cnect-logo-200x57-20141118.png" height='32px' /></a> All-in-One Data Management Stack
 
 ### sails-sqlserver

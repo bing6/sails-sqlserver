@@ -1,6 +1,6 @@
 {
-  "name": "sails-sqlserver",
-  "version": "0.10.9",
+  "name": "sails-sqlserver-plus",
+  "version": "0.1.0",
   "description": "Official SQL Server Adapter for Sails / Waterline",
   "main": "lib/adapter.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cnect/sails-sqlserver.git"
+    "url": "https://github.com/bing6/sails-sqlserver"
   },
   "keywords": [
     "cnect",
@@ -25,7 +25,7 @@
     "mssql",
     "sqlserver"
   ],
-  "author": "Travis Webb <tjwebb@cnectdata.com>",
+  "author": "Travis Webb <tjwebb@cnectdata.com>, Bing <6043625@qq.com>",
   "contributors": [
     "balderdashy",
     "Stuart Welham",
